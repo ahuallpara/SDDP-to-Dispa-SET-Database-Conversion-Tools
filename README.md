@@ -1,5 +1,5 @@
 # SDDP-to-Dispa-SET-Database-Conversion Tools
-This repository contents the scripts to convert the database from SDDP to Dispa-SET format
+This repository contents the scripts to convert the database from SDDP to Dispa-SET format, COMIDA
 # Content
 
 # Conversion Scripts - Input Data
